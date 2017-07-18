@@ -1,2 +1,2 @@
-#GRADLE-tdd homework
+# GRADLE-tdd homework
 done by Burmistrov Valerii && Barybin Anton
